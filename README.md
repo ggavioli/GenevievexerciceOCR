@@ -1,2 +1,3 @@
 # GenevievexerciceOCR
-Il s'agit ici d'un exercice issus du cours OpenClassRoom Github
+Il s'agit ici d'un exercice issus du cours OpenClassRoom Github.
+Apparement tout se passe bien. Je fait ici le changement depuis mon PC, on va voir....
